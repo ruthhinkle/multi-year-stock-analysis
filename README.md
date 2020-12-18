@@ -1,7 +1,7 @@
-# VBA Challenge: Multi-Year Stock Data
+# Multi-Year Stock Data
 
-## Assignment Objectives
-Create a script that does the following:
+## Objectives
+Create a script in Excel's Visual Basic that does the following:
 * loops through all stocks in one year and outputs:
     * ticker symbol
     * yearly change between the open rate at the beginning and close rate at the end of the year
@@ -10,6 +10,7 @@ Create a script that does the following:
 
 ## Repository Contents
 * VBA Script
-* Screenshot for 2014 data
-* Screenshot for 2015 data
-* Screenshot for 2016 data
+* Images
+    * Screenshot for 2014 data
+    * Screenshot for 2015 data
+    * Screenshot for 2016 data
