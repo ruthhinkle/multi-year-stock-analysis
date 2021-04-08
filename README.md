@@ -1,5 +1,7 @@
 # Multi-Year Stock Data
 
+![Image of Results](https://github.com/ruthhinkle/VBA-challenge/blob/main/Images/results-header.png)
+
 ## Objectives
 Create a script in Excel's Visual Basic that does the following:
 * loops through all stocks in one year and outputs:
@@ -10,6 +12,9 @@ Create a script in Excel's Visual Basic that does the following:
 
 ## Repository Contents
 * VBA Script
+* Resources
+    * Testing File
+    * Multiple Year Stock Data
 * Images
     * Screenshot for 2014 data
     * Screenshot for 2015 data
